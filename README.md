@@ -64,6 +64,4 @@ Currently focused on building scalable and resilient systems, while continuously
 ## 🤝 Connect with Me
 
 - GitHub: (https://github.com/LikithKumar0112)-
-- GitHub: https://github.com/LikithKumar0112 
-- LinkedIn: https://linkedin.com/in/likith-kumar-563150236/
 - LinkedIn: (https://www.linkedin.com/in/likith-kumar-563150236)
